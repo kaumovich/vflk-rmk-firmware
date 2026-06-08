@@ -26,7 +26,7 @@ keymap = [
         ["Tab",       "Q",    "W",      "E",     "R",     "T",          "Y",        "No",   "U",     "I",     "O",       "P",         "LeftBracket"    ],
         ["CapsLock",  "A",    "S",      "D",     "F",     "G",          "No",       "H",    "J",     "K",     "L",       "Semicolon", "Quote",         ],
         ["LShift",    "Z",    "X",      "C",     "V",     "B",          "No",       "N",    "M",     "Comma", "Dot",     "Slash",     "RShift",        ],
-        ["LCtrl",     "LGui", "MO(1)",  "LAlt",  "Space", "",           "No",       "No",   "MO(2)", "No",    "PageUp",  "Home",      "Left",          ],    
+        ["LCtrl",     "LGui", "MO(1)",  "LAlt",  "Space", "No",         "No",       "No",   "MO(2)", "No",    "PageUp",  "Home",      "Left",          ],    
     ],
 ]
 
