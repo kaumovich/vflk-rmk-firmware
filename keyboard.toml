@@ -21,12 +21,12 @@ cols = 13
 layers = 1
 keymap = [
     [
-        ["Escape",    "F1",   "F2",     "F3",    "F4",    "F5",         "F6",      "No",   "Kc7",   "Kc8",   "Kc9",     "Kc0",       "Minus",        "Equal",         "Backspace" ],
-        ["No",        "Kc1",  "Kc2",    "Kc3",   "Kc4",   "Kc5",        "Kc6",      "No",   "Kc7",   "Kc8",   "Kc9",     "Kc0",       "Minus",        "Equal",         "Backspace" ],
-        ["Tab",       "Q",    "W",      "E",     "R",     "T",          "Y",        "No",   "U",     "I",     "O",       "P",         "LeftBracket",  "RightBracket",  "Backslash" ],
-        ["CapsLock",  "A",    "S",      "D",     "F",     "G",          "No",       "H",    "J",     "K",     "L",       "Semicolon", "Quote",        "Enter",         "No"        ],
-        ["LShift",    "Z",    "X",      "C",     "V",     "B",          "No",       "N",    "M",     "Comma", "Dot",     "Slash",     "RShift",       "Up",            "MO(3)"     ],
-        ["LCtrl",     "LGui", "MO(1)",  "LAlt",  "Space", "",      "No",       "No",   "MO(2)", "No",    "PageUp",  "Home",      "Left",         "Down",          "Right"     ],    
+        ["Escape",    "F1",   "F2",     "F3",    "F4",    "F5",         "F6",       "No",   "Kc7",   "Kc8",   "Kc9",     "Kc0",       "Minus"          ],
+        ["No",        "Kc1",  "Kc2",    "Kc3",   "Kc4",   "Kc5",        "Kc6",      "No",   "Kc7",   "Kc8",   "Kc9",     "Kc0",       "Minus"          ],
+        ["Tab",       "Q",    "W",      "E",     "R",     "T",          "Y",        "No",   "U",     "I",     "O",       "P",         "LeftBracket"    ],
+        ["CapsLock",  "A",    "S",      "D",     "F",     "G",          "No",       "H",    "J",     "K",     "L",       "Semicolon", "Quote",         ],
+        ["LShift",    "Z",    "X",      "C",     "V",     "B",          "No",       "N",    "M",     "Comma", "Dot",     "Slash",     "RShift",        ],
+        ["LCtrl",     "LGui", "MO(1)",  "LAlt",  "Space", "",           "No",       "No",   "MO(2)", "No",    "PageUp",  "Home",      "Left",          ],    
     ],
 ]
 
