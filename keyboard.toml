@@ -51,7 +51,7 @@ col_offset = 6
 [split.peripheral.matrix]
 matrix_type = "normal"
 row_pins = ["P0_11", "P1_00", "P0_24", "P0_22", "P0_20", "P0_17"]
-col_pins = ["P0_09", "P0_10", "P1_11", "P1_11", "P1_13", "P1_15", "P0_02"]
+col_pins = ["P0_09", "P0_10", "P1_11", "P1_12", "P1_13", "P1_15", "P0_02"]
 
 [ble]
 enabled = true
