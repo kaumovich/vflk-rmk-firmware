@@ -24,7 +24,7 @@ keymap = [
         ["Escape",    "F1",   "F2",     "F3",    "F4",    "F5",            "F6",     "F7",    "F8",      "F9",    "F10",           "F11",          "F12"       ],
         ["No",        "Kc1",  "Kc2",    "Kc3",   "Kc4",   "Kc5",           "Kc6",    "No",    "Kc7",     "Kc8",   "Kc9",           "Kc0",          "Minus"     ],
         ["Tab",       "Q",    "W",      "E",     "R",     "T",             "U",      "I",     "O",       "P",     "LeftBracket",   "RightBracket", "No"        ],
-        ["CapsLock",  "A",    "S",      "D",     "F",     "G",             "H",      "J",     "K",       "L",     "Semicolon",     "Colon",        "Enter",    ],
+        ["CapsLock",  "A",    "S",      "D",     "F",     "G",             "H",      "J",     "K",       "L",     "Semicolon",     "No",        "Enter",    ],
         ["LShift",    "Z",    "X",      "C",     "V",     "B",             "N",      "M",     "Comma",   "Dot",   "RShift",        "Up",           "Slash",    ],
         ["LCtrl",     "LGui", "MO(1)",  "LAlt",  "Space", "Kc6",           "Y",      "Space", "MO(2)",   "RGui",    "Right",         "Down",         "Left",     ],    
     ],
