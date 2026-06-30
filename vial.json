@@ -4,7 +4,7 @@
     "productId": "0x9527",
     "lighting": "none",
     "matrix": {
-        "rows": 5,
+        "rows": 6,
         "cols": 13
     },
     "customKeycodes": [
