@@ -22,7 +22,7 @@ layers = 1
 keymap = [
     [
         ["Escape",    "F1",   "F2",     "F3",    "F4",    "F5",            "F6",     "F7",    "F8",      "F9",    "F10",           "F11",          "F12"       ],
-        ["Grave",     "Kc1",  "Kc2",    "Kc3",   "Kc4",   "Kc5",           "Kc7",    "Kc8",   "Kc9",     "Kc0",   "Minus",        "Equal",        "Backspase"  ],
+        ["Grave",     "Kc1",  "Kc2",    "Kc3",   "Kc4",   "Kc5",           "Kc7",    "Kc8",   "Kc9",     "Kc0",   "Minus",        "Equal",        "Backspace"  ],
         ["Tab",       "Q",    "W",      "E",     "R",     "T",             "U",      "I",     "O",       "P",     "LeftBracket",   "RightBracket", "Backslash" ],
         ["CapsLock",  "A",    "S",      "D",     "F",     "G",             "H",      "J",     "K",       "L",     "Semicolon",     "Quote",        "Enter",    ],
         ["LShift",    "Z",    "X",      "C",     "V",     "B",             "N",      "M",     "Comma",   "Dot",   "RShift",        "Up",           "Slash",    ],
