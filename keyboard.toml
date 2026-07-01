@@ -18,7 +18,7 @@ enabled = true
 [layout]
 rows = 6
 cols = 13
-layers = 1
+layers = 4
 keymap = [
     [
         ["Escape",    "F1",   "F2",     "F3",    "F4",    "F5",            "F6",     "F7",    "F8",      "F9",    "F10",           "F11",          "F12"       ],
