@@ -28,6 +28,31 @@ keymap = [
         ["LShift",    "Z",    "X",      "C",     "V",     "B",             "N",      "M",     "Comma",   "Dot",   "RShift",        "Up",           "Slash",    ],
         ["LCtrl",     "LGui", "MO(1)",  "LAlt",  "Space", "Kc6",           "Y",      "Space", "MO(2)",   "RGui",    "Right",       "Down",         "Left",     ],    
     ],
+    [
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],   
+    ],
+    [
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],   
+    ],
+    [
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],
+        ["No", "No", "No", "No", "No", "No",     "No", "No", "No", "No", "No", "No", "No"  ],   
+    ],
+    
 ]
 
 
